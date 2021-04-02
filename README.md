@@ -1,6 +1,6 @@
 # Landing_page_portfolio
-## Author
-# Lucy Chimoli* 
+# Author
+# Lucy Chimoli
 # Description
 Its a landing page that includes my profile, hobbies, education background, some of the projects that i have done, languages used and live links
 # Prerequisites
