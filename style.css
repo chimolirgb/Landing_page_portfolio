@@ -32,29 +32,30 @@ body{
         color: white;
         
     }
-    .links{
+    .Lifestyle{
         color: rgb(211, 194, 218);
-        
         text-indent: 50px;
+        font-size: 25px;
     
         
     
     }
     .Annitas-Kitchen{
         color: thistle;
-        
+        font-size: 25px;
     }
     .Dairy-Business{
         padding-left: 800px;
         color: thistle;
-       
-       
+        font-size: 25px;
     }
     .lucy-chimoli{
         color: thistle;
+        font-size: 25px;
     }
     .about_text{
         color: thistle;
+        font-size: 25px;
     }
     
     .flip-card {
@@ -62,6 +63,7 @@ body{
         width: 300px;
         height: 300px;
         perspective: 1000px;
+        margin: 50px;
       }
       
       .flip-card-inner {
@@ -96,4 +98,14 @@ body{
         color: white;
         transform: rotateY(180deg);
       }
-      
+      h2{
+        margin: 100px;
+      }
+      h3{
+        margin: 50px;
+        font-size:25px;
+      }
+      p{
+        margin: 50px;
+        font-size: 25px;
+      }
